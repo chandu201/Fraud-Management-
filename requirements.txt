@@ -1,0 +1,10 @@
+pyzmq
+coveralls
+codecov
+stix
+pymisp
+requests-mock
+pip
+nose
+jsonschema
+plyara >= 2.0.2
